@@ -15,6 +15,8 @@
 		public function TomAS3Gotchi() 
 		{
 			_tom = new Tom();
+			trace(_tom.health);
+			trace(_tom.mood);
 		}
 		
 	}
